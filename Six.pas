@@ -23,7 +23,7 @@ Begin
       London:Cn:=Cuntries.English;
       Vashington:Cn:=Cuntries.USA;
       Minsk:Cn:=Cuntries.Byalorasia;
-      Paris:Cn:=Cuntries.France;
+      Paris:Cn:=Cuntries.France;//Добавить Францию
     end;
     Writeln(Cn);
 End.
